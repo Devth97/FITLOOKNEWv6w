@@ -1,0 +1,8 @@
+{
+  "name": "FitLook[beta1] App",
+  "description": "A tailored wedding outfit try-on system powered by Gemini 2.5 Flash Image. Features virtual try-on, customer management, and AI-powered image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
